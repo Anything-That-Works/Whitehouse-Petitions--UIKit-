@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  Whitehouse Petitions
 //
-//  Created by Promal on 23/10/21.
-//
+//  Created by Promal on 23/10/23
 
 import UIKit
 
